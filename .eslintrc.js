@@ -16,6 +16,7 @@ module.exports = {
   rules: {
     quotes: "off",
     "comma-dangle": "off",
-    "no-console": "off"
+    "no-console": "off",
+    "linebreak-style": "off"
   }
 };
