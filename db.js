@@ -5,7 +5,7 @@ export const videos = [
     description: "what a amazing video",
     views: 12314,
     videoFile:
-      "https://archive.org/details/Diablo2LoD_Sorceress_15344/Diablo2LoD_Sorceress_15344_LQ_part03.avi",
+      "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     creator: {
       id: 121212,
       name: "Geon",
@@ -18,7 +18,7 @@ export const videos = [
     description: "what a amazing video",
     views: 12314,
     videoFile:
-      "https://archive.org/details/Diablo2LoD_Sorceress_15344/Diablo2LoD_Sorceress_15344_LQ_part03.avi",
+      "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     creator: {
       id: 121212,
       name: "Geon",
@@ -31,7 +31,7 @@ export const videos = [
     description: "what a amazing video",
     views: 12314,
     videoFile:
-      "https://archive.org/details/Diablo2LoD_Sorceress_15344/Diablo2LoD_Sorceress_15344_LQ_part03.avi",
+      "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     creator: {
       id: 121212,
       name: "Geon",
@@ -44,7 +44,7 @@ export const videos = [
     description: "what a amazing video",
     views: 12314,
     videoFile:
-      "https://archive.org/details/Diablo2LoD_Sorceress_15344/Diablo2LoD_Sorceress_15344_LQ_part03.avi",
+      "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     creator: {
       id: 121212,
       name: "Geon",
