@@ -4,8 +4,7 @@ export const videos = [
     title: "Video awesome",
     description: "what a amazing video",
     views: 12314,
-    videoFile:
-      "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    videoFile: "http://techslides.com/demos/sample-videos/small.mp4",
     creator: {
       id: 121212,
       name: "Geon",
@@ -17,8 +16,7 @@ export const videos = [
     title: "Video amazing",
     description: "what a amazing video",
     views: 12314,
-    videoFile:
-      "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    videoFile: "http://techslides.com/demos/sample-videos/small.mp4",
     creator: {
       id: 121212,
       name: "Geon",
@@ -30,8 +28,7 @@ export const videos = [
     title: "Video super",
     description: "what a amazing video",
     views: 12314,
-    videoFile:
-      "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    videoFile: "http://techslides.com/demos/sample-videos/small.mp4",
     creator: {
       id: 121212,
       name: "Geon",
@@ -43,8 +40,7 @@ export const videos = [
     title: "Video nice",
     description: "what a amazing video",
     views: 12314,
-    videoFile:
-      "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    videoFile: "http://techslides.com/demos/sample-videos/small.mp4",
     creator: {
       id: 121212,
       name: "Geon",
